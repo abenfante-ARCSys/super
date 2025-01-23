@@ -1,3 +1,4 @@
 [submodule "sub"]
 	path = sub
 	url = https://github.com/abenfante-ARCSys/sub.git
+	branch = main
