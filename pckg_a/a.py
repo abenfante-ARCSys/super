@@ -3,8 +3,8 @@ from sub import b
 
 def func():
   print("hello, world!")
-  b.a_func(1)
-  b.a_func(0)
+  b.c.a_func(1)
+  b.c.a_func(0)
 
 
 def main():

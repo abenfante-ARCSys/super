@@ -1,6 +1,6 @@
-from a import * 
+import pckg_a
 
 print(*list(locals().items()), sep='\n')
 
 if __name__ == "__main__":
-  func()
+  pckg_a.a.func()
